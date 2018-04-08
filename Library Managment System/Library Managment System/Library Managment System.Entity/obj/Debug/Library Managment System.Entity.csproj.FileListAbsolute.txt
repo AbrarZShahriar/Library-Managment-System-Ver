@@ -1,0 +1,12 @@
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.Entity\bin\Debug\Library Managment System.Entity.exe
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.Entity\bin\Debug\Library Managment System.Entity.pdb
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.Entity\obj\Debug\Library Managment System.Entity.exe
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.Entity\obj\Debug\Library Managment System.Entity.pdb
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.Entity\bin\Debug\Library Managment System.Entity.exe.config
+F:\AIUB\8th semester\C#\Final\project\My Project\Library Managment System\Library Managment System\Library Managment System.Entity\obj\Debug\Library Managment System.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Abrar Zahin Shahriar\Downloads\Compressed\Library-Managment-System_2\Library Managment System\Library Managment System\Library Managment System.Entity\bin\Debug\Library Managment System.Entity.exe.config
+C:\Users\Abrar Zahin Shahriar\Downloads\Compressed\Library-Managment-System_2\Library Managment System\Library Managment System\Library Managment System.Entity\bin\Debug\Library Managment System.Entity.exe
+C:\Users\Abrar Zahin Shahriar\Downloads\Compressed\Library-Managment-System_2\Library Managment System\Library Managment System\Library Managment System.Entity\bin\Debug\Library Managment System.Entity.pdb
+C:\Users\Abrar Zahin Shahriar\Downloads\Compressed\Library-Managment-System_2\Library Managment System\Library Managment System\Library Managment System.Entity\obj\Debug\Library Managment System.Entity.exe
+C:\Users\Abrar Zahin Shahriar\Downloads\Compressed\Library-Managment-System_2\Library Managment System\Library Managment System\Library Managment System.Entity\obj\Debug\Library Managment System.Entity.pdb
+C:\Users\Abrar Zahin Shahriar\Downloads\Compressed\Library-Managment-System_2\Library Managment System\Library Managment System\Library Managment System.Entity\obj\Debug\Library Managment System.Entity.csprojResolveAssemblyReference.cache
